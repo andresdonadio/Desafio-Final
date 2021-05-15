@@ -6,7 +6,7 @@ export default function Computadoras() {
       style={{ width: "470px" }}
       className="container card mx-auto pt-2 pr-4 pl-4 mt-4"
     >
-      <h2 style={{ width: "420px" }} className="mx-auto p-4 text-center mb-5">
+      <h2 style={{ width: "421px" }} className="mx-auto p-4 text-center mb-5">
         ¡Hola! Para continuar ingresá tu email y contraseña
       </h2>
       <Form.Group controlId="formBasicEmail" className="mb-4">
